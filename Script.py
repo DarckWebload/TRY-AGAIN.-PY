@@ -43,6 +43,12 @@ Group Support
 
 Note:
 Everyone can use this command , if spaming happens bot will automatically ban you from the group"""
+    YTTHUMB_TXT = """𝖧𝖾𝗅𝗉𝗌 𝖳𝗈 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 𝖠𝗇𝗒 𝖸𝗈𝗎𝗍𝗎𝖻𝖾 𝖵𝗂𝖽𝖾𝗈 𝖳𝗁𝗎𝗆𝖻𝗇𝖺𝗂𝗅
+    
+🛃 𝖧𝗈𝗐 𝖳𝗈 𝖴𝗌𝖾
+𝖳𝗒𝗉𝖾 /ytthumb 𝖠𝗇𝖽 𝖵𝗂𝖽𝖾𝗈 𝖫𝗂𝗇𝗄
+• 𝖤𝗑𝖺𝗆𝗉𝗅𝖾
+<code>/ytthumb https://youtu.be/OWqbMNrVt5s</code>"""
     PIN_TXT ="""<b>PIN MODULE</b>
 
 <b>Pin :</b>
